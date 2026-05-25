@@ -3,6 +3,12 @@
 > Ricerca tecnica locale su una boundary issue nella REST API di WordPress.
 > Old school rule: niente rumore, solo evidenza riproducibile.
 
+## Indice rapido
+
+- [Report tecnico completo](docs/REPORT_IT.md)
+- [PoC ridotti](poc/README.md)
+- [Security policy](SECURITY.md)
+
 ## TL;DR
 
 Un utente autenticato con ruolo **Author** può creare o modificare un proprio post e assegnare come `featured_media` un attachment privato appartenente a un amministratore.
